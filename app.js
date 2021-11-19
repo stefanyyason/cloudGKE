@@ -9,7 +9,7 @@ const app = express()
 app.get('/', (req, res) => {
     res.send('Stefany Yason\n')
     res.send('51017018\n')
-    res.send('Sistem Informasi'17\n')
+    res.send('Sistem Informasi 17\n')
 })
 
 app.listen(PORT, HOST)
